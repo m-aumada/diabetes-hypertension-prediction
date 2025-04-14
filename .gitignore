@@ -1,0 +1,14 @@
+# Ignorar a pasta do ambiente virtual
+venv/
+
+# Ignorar caches do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de ambiente
+.env
+
+# Arquivos do sistema
+.DS_Store
